@@ -1,2 +1,2 @@
 # alibagheri-98.github.io
-My Personal Website Source Code is in this [LINK](https://alibagheri-98.github.io/)
+The source code for my personal website is accessible via this [LINK](https://alibagheri-98.github.io/)
